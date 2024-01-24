@@ -2,6 +2,7 @@ package arraydemo;
 import java.util.Scanner;
 /**
  * Hello This file has been edited.
+ * This is for fetch and merge.
  * Date - Jan 10,2024
  * @author bharat
  */
