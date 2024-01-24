@@ -1,6 +1,5 @@
-import java.util.Scanner;
 package arraydemo;
-
+import java.util.Scanner;
 /**
  * Hello This file has been edited.
  * Date - Jan 10,2024
